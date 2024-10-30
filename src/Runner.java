@@ -21,9 +21,10 @@ public class Runner {
         //techpro
         System.out.println("...........................");
         System.out.println("*************************");
-
+ techpro
         //techpro brenchinde degisiklik
         //--------------------
+
 
 
         //localde degisiklik
