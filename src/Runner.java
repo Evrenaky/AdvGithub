@@ -22,8 +22,8 @@ public class Runner {
         System.out.println("...........................");
         System.out.println("*************************");
 
-        //remote repoda degisikli
-        //****************
+        //techpro brenchinde degisiklik
+        //--------------------
 
 
         //localde degisiklik
